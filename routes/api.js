@@ -1,7 +1,10 @@
 var express = require('express');
 var router = express.Router();
 var models = require('../models')
-var whitelist = [process.env.API_CONSUMER_HOST]
+
+router.get('/ping', function (req, res) {
+	res.status(200).json({ response: 'pong' })
+});
 
 router.get('/api/charges', function(req, res){
 	let offset = req.query.offset;

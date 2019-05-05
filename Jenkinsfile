@@ -20,6 +20,8 @@ pipeline {
                 sh 'npm start'
             }
         }
+        // OR you can just test the app within Docker containers
+        //
         // stage('Docker build') {
         //     steps {
         //         echo 'Building docker image'

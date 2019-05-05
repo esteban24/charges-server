@@ -7,9 +7,6 @@ var bodyParser = require('body-parser');
 var models = require(__dirname + '/models');
 var cors = require('cors');
 
-const dotenv = require('dotenv');
-dotenv.config();
-
 var api = require(__dirname + '/routes/api');
 
 var app = express();
