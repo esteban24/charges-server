@@ -14,6 +14,12 @@ pipeline {
                 sh 'npm install'
             }
         }
+        stage('Deploy') {
+            steps {
+                echo 'Startint server'
+                sh 'npm start'
+            }
+        }
         // stage('Docker build') {
         //     steps {
         //         echo 'Building docker image'
