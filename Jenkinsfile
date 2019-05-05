@@ -1,7 +1,8 @@
 pipeline {
     agent any
 
-    try {
+    node {
+        try {
             stages {
                 stage('Checkout') {
                     steps {
@@ -28,12 +29,13 @@ pipeline {
                 //     }
                 // }
             }
-    } catch(Exception e) {
-        error e
-    } finally {
-        cleanWs()
-        // sh 'docker stop charges-server-pipeline'
-        // sh 'docker rm charges-server-pipeline'
-        // sh 'docker rmi charges-server-pipeline:latest'
+        } catch(Exception e) {
+            error e
+        } finally {
+            cleanWs()
+            // sh 'docker stop charges-server-pipeline'
+            // sh 'docker rm charges-server-pipeline'
+            // sh 'docker rmi charges-server-pipeline:latest'
+        }
     }
 }
