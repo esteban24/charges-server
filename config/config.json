@@ -1,0 +1,20 @@
+{
+  "development": {
+    "username": "root",
+    "password": "password",
+    "database": "development-database",
+    "dialect": "sqlite"
+  },
+  "test": {
+    "username": "root",
+    "password": "password",
+	  "database": "test-database",
+    "dialect": "sqlite"
+  },
+  "production": {
+    "username": "root",
+    "password": "password",
+	  "database": "production-database",
+    "dialect": "sqlite"
+  }
+}

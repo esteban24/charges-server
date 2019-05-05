@@ -1,0 +1,142 @@
+[
+  {
+    "model": "Charge",
+    "data": {
+      "description": "Vetron",
+      "amount": 86.8839
+    }
+  },
+  {
+    "model": "Charge",
+    "data": {
+      "description": "Fangold",
+      "amount": 1468.3453
+    }
+  },
+  {
+    "model": "Charge",
+    "data": {
+      "description": "Bezal",
+      "amount": 1454.6031
+    }
+  },
+  {
+    "model": "Charge",
+    "data": {
+      "description": "Euron",
+      "amount": 1341.0442
+    }
+  },
+  {
+    "model": "Charge",
+    "data": {
+      "description": "Tropolis",
+      "amount": 1054.2154
+    }
+  },
+  {
+    "model": "Charge",
+    "data": {
+      "description": "Olympix",
+      "amount": 1899.9215
+    }
+  },
+  {
+    "model": "Charge",
+    "data": {
+      "description": "Viagrand",
+      "amount": 993.6594
+    }
+  },
+  {
+    "model": "Charge",
+    "data": {
+      "description": "Tsunamia",
+      "amount": 462.4862
+    }
+  },
+  {
+    "model": "Charge",
+    "data": {
+      "description": "Comcubine",
+      "amount": 1582.5776
+    }
+  },
+  {
+    "model": "Charge",
+    "data": {
+      "description": "Uplinx",
+      "amount": 1812.2552
+    }
+  },
+  {
+    "model": "Charge",
+    "data": {
+      "description": "Ginkogene",
+      "amount": 1662.1425
+    }
+  },
+  {
+    "model": "Charge",
+    "data": {
+      "description": "Zillanet",
+      "amount": 138.4754
+    }
+  },
+  {
+    "model": "Charge",
+    "data": {
+      "description": "Buzzmaker",
+      "amount": 930.9997
+    }
+  },
+  {
+    "model": "Charge",
+    "data": {
+      "description": "Magmina",
+      "amount": 1481.7415
+    }
+  },
+  {
+    "model": "Charge",
+    "data": {
+      "description": "Klugger",
+      "amount": 561.2592
+    }
+  },
+  {
+    "model": "Charge",
+    "data": {
+      "description": "Bitendrex",
+      "amount": 386.8496
+    }
+  },
+  {
+    "model": "Charge",
+    "data": {
+      "description": "Oatfarm",
+      "amount": 547.5688
+    }
+  },
+  {
+    "model": "Charge",
+    "data": {
+      "description": "Nimon",
+      "amount": 1472.0944
+    }
+  },
+  {
+    "model": "Charge",
+    "data": {
+      "description": "Viocular",
+      "amount": 411.2057
+    }
+  },
+  {
+    "model": "Charge",
+    "data": {
+      "description": "Amtas",
+      "amount": 1901.3265
+    }
+  }
+]
